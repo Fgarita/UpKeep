@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyInstaller / Inno Setup build output — generated locally, don't commit
+build/
+dist/
+Output/
+*.spec.bak

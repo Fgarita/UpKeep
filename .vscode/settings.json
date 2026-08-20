@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": ["${workspaceFolder}"],
+    "python.analysis.autoImportCompletions": true,
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "**/__pycache__": true
+    }
+}
